@@ -6,6 +6,7 @@ Try live version of NyanCat.io game here – https://nyancat.io
 Check out current Waves implementation stats – https://www.dappocean.io/dapps/nyancat 
 
 **Contract logic description**
+
 Race scheme describes how the race will be held and what prizes will be awarded at the end. Each scheme has its unique ID, the value identifying the number of players, and an array with multipliers *100 in order of priority.
 For example, coefficient 1.5 = 150, and so on.  
 
